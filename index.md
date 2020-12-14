@@ -12,8 +12,8 @@ I have obtained a bachelor's degree of the same specialisation at Zhejiang Unive
 
 - During my undergraduate thesis, I recorded the ideas and experiments [here](https://luzai.github.io/report/).
 - As teacher assistance, I prepared materials [here](https://github.com/luzai/opt18).
-- As an administrator of the labotory server, I write a [tutorial](https://luzai.github.io/server/).
-- My curriculum vitae is [here](./assets/cv.xinglu.pdf).
+- As an administrator of the labotory server, I write a [tutorial](https://luzai.github.io/server/). 
+- My curriculum vitae is [here](./assets/xinglu.cv.eng.pdf). 
 
 ## Publication 
 
