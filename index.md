@@ -17,5 +17,5 @@ I have obtained a bachelor's degree of the same specialisation at Zhejiang Unive
 
 ## Publication 
 
-1. Wang, X. and Li, Y., 2020, October. Gradient Deconfliction-Based Training For Multi-Exit Architectures. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 1866-1870). IEEE. https://ieeexplore.ieee.org/document/9190812
+1. Wang, X. and Li, Y., 2020, October. Gradient Deconfliction-Based Training For Multi-Exit Architectures. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 1866-1870). IEEE. [link](https://ieeexplore.ieee.org/document/9190812). 
 2. Wang, X. and Li, Y., 2021. Harmonized Dense Knowledge Distillation Training for Multi-exit Architectures. Accepted by the AAAI Conference on Artificial Intelligence, 2021. 
