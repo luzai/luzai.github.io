@@ -4,10 +4,9 @@ layout: default
 
 ## About me 
 
-- I have obtained a master's and a bachelor's degree of  Information Engineering at Zhejiang University. During the master's stage, I am  advised by [Dr. Yingming Li](https://scholar.google.com/citations user=iJSQam8AAAAJ&hl=zh-CN), and [Prof. Zhongfei (Mark) Zhang](http://www.cs.binghamton.edu/~zhongfei/). 
-- My research interests lie in the general area of trustworthy and interpretable data science. 
-<!-- I am currently a PhD candidate in Computer Science, Simon Fraser University -->
-<!-- , supervised by [Prof. Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage).  -->
+- I am currently a PhD student in Computer Science, Simon Fraser University, supervised by Prof. Jiannan Wang and Prof. Jian Pei.  
+- My research interests are Machine Learning enhanced Operational Research and Trustworthy Data Science. 
+- I obtained a master's and a bachelor's degree of Information Engineering at Zhejiang University. During the master's stage, I am advised by [Dr. Yingming Li](https://scholar.google.com/citations user=iJSQam8AAAAJ&hl=zh-CN), and [Prof. Zhongfei (Mark) Zhang](http://www.cs.binghamton.edu/~zhongfei/). 
 
 ## Links 
 
