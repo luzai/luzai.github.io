@@ -14,7 +14,7 @@ layout: default
 ## Projects
 
 - Please refer to my [CV](./assets/CV_Xinglu.pdf) for details.
-- [Where It Breaks: Diagnosing Perception, Memory, and Decision Failures of a Vision-Language Agent in Pac-Man](https://arxiv.org/abs/2611.06704) (2026 preprint) · [Project website](https://where-it-breaks-review.vercel.app/). We use Pac-Man to study how a Qwen3.5-9B agent perceives the game, maintains spatial memory, and chooses actions. The main experiments study reinforcement learning on text-based mazes, with additional experiments on visual adaptation and agent harness design.
+- Long-Horizon Visual Agent: [Paper](https://arxiv.org/abs/2611.06704), [Project website](https://where-it-breaks-review.vercel.app/)
 - PhD thesis: [slide](https://docs.google.com/viewer?url=https://luzai.github.io/assets/thesis-defense.pptx), [thesis](./assets/phd_thesis_xinglu.pdf). Explore how ML enhances the OR process and how OR enhances the ML lifecycle, including 3 works:
   - Smart initial basis
   - Graph edit distance for evaluating the NLP-to-LP task
