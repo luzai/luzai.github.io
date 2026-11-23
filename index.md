@@ -14,6 +14,7 @@ layout: default
 ## Projects
 
 - Please refer to my [CV](./assets/CV_Xinglu.pdf) for details.
+- [Where It Breaks: Diagnosing Perception, Memory, and Decision Failures of a Vision-Language Agent in Pac-Man](https://arxiv.org/abs/2611.06704) (2026 preprint). We use Pac-Man to study how visual perception, spatial memory, and action selection affect a Qwen3.5-9B agent, with experiments on reinforcement learning and agent harness design.
 - PhD thesis: [slide](https://docs.google.com/viewer?url=https://luzai.github.io/assets/thesis-defense.pptx), [thesis](./assets/phd_thesis_xinglu.pdf). Explore how ML enhances the OR process and how OR enhances the ML lifecycle, including 3 works:
   - Smart initial basis
   - Graph edit distance for evaluating the NLP-to-LP task
